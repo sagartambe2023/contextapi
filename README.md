@@ -1,3 +1,8 @@
+**React Shopping Cart with Context API**
+This GitHub repository contains a simple yet effective shopping cart application built using React.js, showcasing the functionality of the Context API. The application provides a seamless shopping experience, allowing users to add and remove items from their cart with ease.
+
+Deployed On: https://app.netlify.com/sites/extraordinary-sunshine-f375c4/overview
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
